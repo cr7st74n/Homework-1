@@ -1,5 +1,6 @@
 # Homework-1
 First challenge in Bootcamp UofM
+The lisj to my githgub Repositoy is: https://github.com/cr7st74n/Homework-1
 This is the code that has been provided and refactored to neet all the requirements.
 ![image](https://user-images.githubusercontent.com/34308684/174225133-104209e2-aa3a-4763-a5de-8f33f1d9e1b8.png)
 This is the specific parts that I change of the code:
